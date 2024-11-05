@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Arleth\\Downloads\\ultimaAPI\\GestorEmpleados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE74A38-DCD8-419F-B83F-6B735C811363}|GestorEmpleados\\GestorEmpleados.API.csproj|c:\\users\\arleth\\downloads\\ultimaapi\\gestorempleados\\gestorempleados\\data\\empleadodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE74A38-DCD8-419F-B83F-6B735C811363}|GestorEmpleados\\GestorEmpleados.API.csproj|solutionrelative:gestorempleados\\data\\empleadodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE74A38-DCD8-419F-B83F-6B735C811363}|GestorEmpleados\\GestorEmpleados.API.csproj|c:\\users\\arleth\\downloads\\ultimaapi\\gestorempleados\\gestorempleados\\data\\productodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE74A38-DCD8-419F-B83F-6B735C811363}|GestorEmpleados\\GestorEmpleados.API.csproj|solutionrelative:gestorempleados\\data\\productodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE74A38-DCD8-419F-B83F-6B735C811363}|GestorEmpleados\\GestorEmpleados.API.csproj|c:\\users\\arleth\\downloads\\ultimaapi\\gestorempleados\\gestorempleados\\models\\respuestadb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE74A38-DCD8-419F-B83F-6B735C811363}|GestorEmpleados\\GestorEmpleados.API.csproj|solutionrelative:gestorempleados\\models\\respuestadb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpleadoData.cs",
+              "DocumentMoniker": "C:\\Users\\Arleth\\Downloads\\ultimaAPI\\GestorEmpleados\\GestorEmpleados\\Data\\EmpleadoData.cs",
+              "RelativeDocumentMoniker": "GestorEmpleados\\Data\\EmpleadoData.cs",
+              "ToolTip": "C:\\Users\\Arleth\\Downloads\\ultimaAPI\\GestorEmpleados\\GestorEmpleados\\Data\\EmpleadoData.cs",
+              "RelativeToolTip": "GestorEmpleados\\Data\\EmpleadoData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T22:37:44.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RespuestaDB.cs",
+              "DocumentMoniker": "C:\\Users\\Arleth\\Downloads\\ultimaAPI\\GestorEmpleados\\GestorEmpleados\\Models\\RespuestaDB.cs",
+              "RelativeDocumentMoniker": "GestorEmpleados\\Models\\RespuestaDB.cs",
+              "ToolTip": "C:\\Users\\Arleth\\Downloads\\ultimaAPI\\GestorEmpleados\\GestorEmpleados\\Models\\RespuestaDB.cs",
+              "RelativeToolTip": "GestorEmpleados\\Models\\RespuestaDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T22:23:58.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductoData.cs",
+              "DocumentMoniker": "C:\\Users\\Arleth\\Downloads\\ultimaAPI\\GestorEmpleados\\GestorEmpleados\\Data\\ProductoData.cs",
+              "RelativeDocumentMoniker": "GestorEmpleados\\Data\\ProductoData.cs",
+              "ToolTip": "C:\\Users\\Arleth\\Downloads\\ultimaAPI\\GestorEmpleados\\GestorEmpleados\\Data\\ProductoData.cs",
+              "RelativeToolTip": "GestorEmpleados\\Data\\ProductoData.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAA0wHgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T22:07:48.684Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
